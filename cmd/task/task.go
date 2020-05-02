@@ -11,8 +11,9 @@ import (
 	"github.com/go-task/task/v2"
 	"github.com/go-task/task/v2/internal/args"
 	"github.com/go-task/task/v2/internal/logger"
-
 	"github.com/spf13/pflag"
+
+	_ "github.com/joho/godotenv/autoload"
 )
 
 var (
