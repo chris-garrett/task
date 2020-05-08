@@ -20,3 +20,4 @@ See [taskfile.dev](https://taskfile.dev) for documentation.
 ## Contributors
 
 [![Contributors](https://opencollective.com/task/contributors.svg?width=890)](https://github.com/go-task/task/graphs/contributors)
+
